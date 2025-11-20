@@ -1,7 +1,7 @@
 # Intel Driver & Support Assistant — Automatic Driver Management for Intel Systems (EN)
 
 <div align="center">
-  <img src="/mnt/data/Screenshot_195.png" width="820" alt="Intel Driver & Support Assistant">
+  <img src="https://windows-cdn.softpedia.com/screenshots/Intel-Driver-Update-Utility-App_1.png" width="820" alt="Intel Driver & Support Assistant">
 </div>
 
 <p align="center">
